@@ -50,7 +50,7 @@ nav img{
     content: '';
     width: 0%;
     height: 2px;
-    background: #f44336;
+    background: #4d1c28;
     display: block;
     margin: auto;
     transition: 0.5s
@@ -261,7 +261,7 @@ pic5 img{
     }
     .nav-links{
         position: fixed;
-        background: #f44336;
+        background: #4d1c28;
         height: 100vh;
         width: 200px;
         top: 0;
